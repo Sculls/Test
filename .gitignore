@@ -1,0 +1,4 @@
+# comments in .gitignore
+# logs/ - ignore folder logs/
+
+.DS_Store
